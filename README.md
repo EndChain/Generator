@@ -1,4 +1,4 @@
-#EndChain Code Generator
+# EndChain Code Generator
 This python code generates a combination of Qr and Bar codes
 Try to scan the sample out.png, the QR code redirects to endchain.io while the barcode embeds a EAN13
 
